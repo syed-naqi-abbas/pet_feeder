@@ -76,4 +76,4 @@ Once the virtual pin value changes, a function on ESP32 triggers the appropriate
 
 ## 📸 Project Preview
 
-<img src="https://github.com/syed-naqi-abbas/pet_feeder/blob/main/pet_feeder.jpg" height="48" width="48">
+<img src="https://github.com/syed-naqi-abbas/pet_feeder/blob/main/pet_feeder.jpg" height="300" width="300">
